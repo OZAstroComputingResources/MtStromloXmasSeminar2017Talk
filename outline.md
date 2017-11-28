@@ -45,9 +45,11 @@ And how I learnt these skills.
 
 # Automate
    * [Make](https://swcarpentry.github.io/make-novice/)
+   * [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)
    * Testing—see [https://katyhuff.github.io/python-testing/](https://katyhuff.github.io/python-testing/)
 
 ---
+
 So how to learn more?
 
 ---
@@ -75,6 +77,7 @@ So how to learn more?
    * Project documentation
 
 # Questions?
+See https://aragilar.github.io/MtStromloXmasSeminar2017Talk/ for slides
 
 # Other resources
  * [autotools book](https://www.nostarch.com/autotools.htm) [autotools advice](https://autotools.io/index.html)
@@ -89,4 +92,5 @@ So how to learn more?
    conda
  * Not everything in conda (hence KERN)
  * Not as powerful as other systems (e.g. Spack, [nix](https://nixos.org/nix/))
+ * Does not work with some python tools
  * Try conda, but be aware of alternatives
