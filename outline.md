@@ -42,6 +42,7 @@ And how I learnt these skills.
 
 # Manage your data
 [![](images/datalad.png)](http://datalad.org/)
+[![](images/git-annex.png)](https://git-annex.branchable.com/)
 
 # Automate
    * [Make](https://swcarpentry.github.io/make-novice/)
@@ -53,6 +54,7 @@ And how I learnt these skills.
 So how to learn more?
 
 ---
+
 # Courses
 [![](images/software-carpentry.png)](https://software-carpentry.org/)
 [![](images/adacs.png)](https://adacs.org.au/)
@@ -60,6 +62,7 @@ So how to learn more?
 # Books
   * [Effective Computation in Physics](http://physics.codes/)
   * [Python Cookbook](http://shop.oreilly.com/product/0636920027072.do)
+  * [The Hacker's Guide to Python](https://thehackerguidetopython.com/)
 
 # Other people/Meetups
    * [Coffee and Code @ MQ](https://github.com/OZAstroComputingResources/MQCoffee-CodeResources)
@@ -76,6 +79,14 @@ So how to learn more?
    * Blogs: [Python Planet](http://planetpython.org/)
    * Project documentation
 
+---
+
+[![](images/xkcd_is_it_worth_the_time.png)](https://xkcd.com/1205/)
+
+[xkcd 1205](https://xkcd.com/1205/)
+
+---
+
 # Questions?
 See https://aragilar.github.io/MtStromloXmasSeminar2017Talk/ for slides
 
@@ -86,6 +97,7 @@ See https://aragilar.github.io/MtStromloXmasSeminar2017Talk/ for slides
  * [reproducable research](https://mg.readthedocs.io/reproducible_research.html)
  * [how to report bugs](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
  * [git for ages 4 and up](https://www.youtube.com/watch?v=3m7BgIvC-uQ)
+ * [git for computer scientists](http://eagain.net/articles/git-for-computer-scientists/)
 
 # Why not conda?
  * See [KERN paper](https://arxiv.org/abs/1710.09145) for why they didn’t use
